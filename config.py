@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/mrtosumemon/DoReAmOn
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL" , "https://t.me/love_bitesJZ")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DEVIL_KINGDOMJ")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL" , "https://t.me/SEVEN_H_RAPPER")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP " , "https://t.me/SEVEN_H_CHATTING")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
